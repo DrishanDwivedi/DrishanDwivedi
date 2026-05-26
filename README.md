@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Drishan Dwivedi</h1>
-<h3 align="center">Cloud & DevOps Enthusiast ☁️ | UI/UX Learner 🎨</h3>
+<h3 align="center">Cloud & DevOps Enthusiast ☁️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AWS+%7C+Docker+%7C+Kubernetes;DevOps+and+Cloud+Computing;Learning+and+Building+Everyday" />
