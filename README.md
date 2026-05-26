@@ -2,19 +2,19 @@
 <h3 align="center">Cloud & DevOps Enthusiast ☁️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AWS+%7C+Docker+%7C+Kubernetes;DevOps+and+Cloud+Computing;Learning+and+Building+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AWS+%7C+Docker+%7C+GithubActions;DevOps+and+Cloud+Computing;Learning+and+Building+Everyday" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 3rd Year CSE Student specializing in Cloud Computing
-- ☁️ Learning AWS, Docker, Kubernetes, Jenkins & Terraform
-- 🐧 Linux enthusiast
-- 🎨 Also learning UI/UX Design using Figma
-- 💻 Solving DSA problems regularly
-- 🎯 Goal: Land a ₹10+ LPA DevOps/Cloud role by 2027
+🎓 B.Tech in Computer Science Engineering | Cloud Computing Specialization  
+☁️ Passionate about Cloud, DevOps, and scalable infrastructure  
+💡 Exploring automation, containerization, and modern deployment workflows  
+💻 Skilled in AWS, Docker, Linux, Git & GitHub Actions  
+🧠 Strong problem-solving mindset, built through consistent DSA practice and hands-on projects  
+🛠 Constantly learning DevOps tools, best practices, and real-world engineering workflows
 
 ---
 
@@ -30,11 +30,6 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,jenkins,terraform,git,github" />
 </p>
 
-### 🎨 Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
 ---
 
 ## 📌 Current Focus
@@ -43,8 +38,6 @@
 - ⚙️ Building automation projects
 - ☸️ Practicing Kubernetes
 - 📚 Improving DSA consistency
-- 🎨 Creating better UI/UX designs
-
 ---
 
 ## 📊 GitHub Stats
