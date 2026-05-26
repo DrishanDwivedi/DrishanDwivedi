@@ -30,6 +30,16 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,jenkins,terraform,git,github" />
 </p>
 
+## ⚒️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,jenkins,kubernetes,terraform,bash,figma,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
 ---
 
 ## 📌 Current Focus
@@ -54,12 +64,20 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact Me
 
-<p>
-<a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/DrishanDwivedi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
