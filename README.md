@@ -33,7 +33,7 @@
 ## ⚒️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,jenkins,kubernetes,terraform,bash,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 </p>
 
 <p align="center">
