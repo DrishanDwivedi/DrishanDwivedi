@@ -32,11 +32,11 @@
 
 ## ⚒️ Tools & Technologies
 
-<p 
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 </p>
 
-<p 
+<p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
